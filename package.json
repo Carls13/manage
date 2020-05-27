@@ -2,7 +2,7 @@
   "name": "landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Carls.github.io/manage",
+  "homepage": "https://Carls13.github.io/manage",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
